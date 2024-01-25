@@ -1,13 +1,12 @@
 Karaoke Project by mr.aithep@gmail.com
 
-Download Example.zip. https://github.com/aiThep/Karaoke/blob/main/Karaoke%20Resources%20Example.zip
-1. Background image-1920x1080.jpg
-2. Music-KAO HAI KLAI KWA DOEM.m4a
-3. Vocals-KAO HAI KLAI KWA DOEM.m4a
-4. Lyrics-KAO HAI KLAI KWA DOEM.txt
+Download Example.zip
+https://github.com/aiThep/Karaoke/blob/main/Karaoke%20Resources%20Example.zip
 
-Tools: Audio Editing. Audio Extractor. Subtitle Editing. Video Create.
+Audio Editing Tools
 1. Download Audacity. https://www.audacityteam.org/download
+. Audio Extractor. Subtitle Editing. Video Create.
+
 2. Download Ultimate Vocal Remover. https://github.com/Anjok07/ultimatevocalremovergui
 3. Download Subtitle Edit. https://www.nikse.dk/subtitleedit
 4. Download Adobe Premiere Pro [Trial version]. https://www.adobe.com/th_th/products/premiere.html
