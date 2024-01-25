@@ -1,10 +1,11 @@
-Karaoke Project by mr.aithep@gmail.com
+mr.aithep@gmail.com
+#Karaoke Project
 
 Example File.
- .Download Example. https://github.com/aiThep/Karaoke/blob/main/Example.zip
+*Download Example. https://github.com/aiThep/Karaoke/blob/main/Example.zip
 
 Audio Edit Tools.
-. Download Audacity. https://www.audacityteam.org/download
+*Download Audacity. https://www.audacityteam.org/download
 
 Audio Extractor Tools.
 . Download Ultimate Vocal Remover. https://github.com/Anjok07/ultimatevocalremovergui
