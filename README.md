@@ -1,4 +1,4 @@
-Karaoke Project [mr.aithep@gmail.com]
+Karaoke Project by mr.aithep@gmail.com
 
 Project Requirements:
  1. Background image-1920x1080-aiThep KARAOKE.jpg
@@ -10,7 +10,7 @@ Advice:
 
 Part 1 Karaoke Resources Example
  1. Open Google
- 2. https://github.com/aiThep/Karaoke/blob/main/Karaoke%20Resource.zip/ Download Karaoke Resources Example.zip
+ 2. https://github.com/aiThep/Karaoke/blob/main/Karaoke%20Resources%20Example.zip/ Download Karaoke Resources Example.zip
  3. Create a Karaoke folder on the desktop
  4. Extract the files to the Karaoke folder
 
