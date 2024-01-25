@@ -9,8 +9,8 @@ Project Requirements:
 Episode 1
   1. Create a karaoke folder on the desktop
   2. Open Google
-  3. Paste the link https://github.com/aiThep/Karaoke/blob/main/Karaoke%20Resource.zip
-  4. Download Karaoke Resource.zip
+  3. Paste the 
+  4. Download Karaoke Resource.zip link 
   5. Extract the files to the Karaoke folder
 
 Episode 2
