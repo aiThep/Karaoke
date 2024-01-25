@@ -13,3 +13,4 @@ Paste the link https://github.com/aiThep/Karaoke/blob/main/Karaoke%20Resource.zi
 Download Karaoke Resource.zip
 Extract the files to the Karaoke folder
 
+Episode 2
