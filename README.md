@@ -4,7 +4,7 @@ mr.aithep@gmail.com
 # Example
 1. https://github.com/aiThep/Karaoke/ Download Example.zip
 
-# Tools.
+# Tools
 1. https://www.audacityteam.org/download/ Download Audacity
 2. https://github.com/Anjok07/ultimatevocalremovergui/ Download Ultimate Vocal Remover
 3. https://www.nikse.dk/subtitleedit/ Download Subtitle Edit
