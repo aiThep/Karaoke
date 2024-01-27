@@ -1,7 +1,7 @@
 mr.aithep@gmail.com
 # Karaoke Project
 
-1. https://github.com/aiThep/Karaoke/blob/main/ Download Example.
+1. https://github.com/aiThep/Karaoke/ Download Example.
 
 # Tools.
 1. https://www.audacityteam.org/download/ Download Audacity.
