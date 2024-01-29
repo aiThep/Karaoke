@@ -1,4 +1,4 @@
-# Karaoke Project
+# Karaoke Video Project
 mr.aithep@gmail.com Updated 29-1-2024
 
 # Download Example
