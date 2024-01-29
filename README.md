@@ -16,3 +16,6 @@ https://drive.google.com/drive/folders/1QQZBZ_6kurGJx1splcUzo05ESqcU4twL
 2. https://github.com/Anjok07/ultimatevocalremovergui/ Download Ultimate Vocal Remover
 3. https://github.com/SubtitleEdit/subtitleedit/releases/ Download Subtitle Edit
 4. https://www.softwaresuite.store/adobe/premiere/download/ Download Adobe Premiere Pro
+
+# How to Make Karaoke Video - Adobe Premiere Pro Tutorial
+1.
