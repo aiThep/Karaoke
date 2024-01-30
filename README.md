@@ -4,8 +4,8 @@ mr.aithep@gmail.com Updated 29-1-2024
 # Download Example
 https://drive.google.com/drive/folders/1QQZBZ_6kurGJx1splcUzo05ESqcU4twL
 1. Background image-1920x1080.jpg
-2. Karaoke L to R.mogrt | Templates for Adobe Premiere Pro
-3. Karaoke FFFFFF.mogrt | Templates for Adobe Premiere Pro
+2. Karaoke FFFFFF.mogrt | Templates for Adobe Premiere Pro
+3. Karaoke L to R.mogrt | Templates for Adobe Premiere Pro
 4. Music-KAO HAI KLAI KWA DOEM.m4a 
 5. Vocals-KAO HAI KLAI KWA DOEM.m4a
 6. Lyrics-KAO HAI KLAI KWA DOEM.srt
