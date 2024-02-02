@@ -1,7 +1,7 @@
 # Karaoke Video Project
 mr.aithep@gmail.com Updated 2-2-2024
 
-# Download Example
+# Example
 1. Background image-1920x1080.jpg
 2. Karaoke FFFFFF.mogrt | Templates for Adobe Premiere Pro
 3. Karaoke L to R.mogrt | Templates for Adobe Premiere Pro
