@@ -1,5 +1,5 @@
 # Karaoke Video Project
-mr.aithep@gmail.com Updated 29-1-2024
+mr.aithep@gmail.com Updated 2-2-2024
 
 # Download Example
 1. Background image-1920x1080.jpg
