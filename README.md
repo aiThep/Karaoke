@@ -5,10 +5,10 @@ mr.aithep@gmail.com Updated 29-1-2024
 1. Background image-1920x1080.jpg
 2. Karaoke FFFFFF.mogrt | Templates for Adobe Premiere Pro
 3. Karaoke L to R.mogrt | Templates for Adobe Premiere Pro
-4. Music-KAO HAI KLAI KWA DOEM.m4a 
-5. Vocals-KAO HAI KLAI KWA DOEM.m4a
-6. Lyrics-KAO HAI KLAI KWA DOEM.srt
-7. Lyrics-KAO HAI KLAI KWA DOEM.txt 
+4. Song Lyrics.txt
+5. Sound Music.m4a
+6. Sound Vocals.m4a
+7. Subtitles Lyrics.srt
 
 # Download Tools
 1. https://www.audacityteam.org/download/ Download Audacity
