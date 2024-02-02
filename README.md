@@ -17,4 +17,4 @@ mr.aithep@gmail.com Updated 2-2-2024
 4. https://www.softwaresuite.store/adobe/premiere/download/ Download Adobe Premiere Pro
 
 # How to Make Karaoke Video - Adobe Premiere Pro Tutorial
-1.
+1. https://www.youtube.com/watch?v=dbPxOkT8CUM/
