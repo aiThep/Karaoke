@@ -1,14 +1,13 @@
 # Karaoke Video Project
 mr.aithep@gmail.com Updated 2-2-2024
 
-# Example
-1. Background image-1920x1080.jpg
-2. Karaoke FFFFFF.mogrt | Templates for Adobe Premiere Pro
-3. Karaoke L to R.mogrt | Templates for Adobe Premiere Pro
-4. Song Lyrics.txt
-5. Sound Music.m4a
-6. Sound Vocals.m4a
-7. Subtitles Lyrics.srt
+# Templates for Adobe Premiere Pro
+1. Background 1920x1080.png
+2. Karaoke subtitle FFFFFF.mogrt
+3. Karaoke subtitle 0018FF.mogrt
+4. Sound Music.m4a
+5. Sound Vocals.m4a
+6. Subtitles Lyrics.srt
 
 # Download Tools
 1. https://www.audacityteam.org/download/ Download Audacity
