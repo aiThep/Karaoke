@@ -2,7 +2,7 @@
 mr.aithep@gmail.com Updated 2-2-2024
 
 # Templates for Adobe Premiere Pro
-1. Background 1920x1080.png
+1. Background 1920x1080.jpg
 2. Karaoke subtitle FFFFFF.mogrt
 3. Karaoke subtitle 0018FF.mogrt
 4. Sound Music.m4a
