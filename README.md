@@ -9,7 +9,7 @@ mr.aithep@gmail.com Updated 2-2-2024
 
 # Karaoke tools
 1. <a href="https://multimedia.easeus.com/vocal-remover/">Vocal Remover Online Free</a>
-2. <a href="https://github.com/SubtitleEdit/subtitleedit/releases/">Subtitle Edit: https</a>
+2. <a href="https://github.com/SubtitleEdit/subtitleedit/releases/">Subtitle Edit</a>
 3. <a href="https://www.softwaresuite.store/adobe/premiere/download/">Adobe Premiere Pro</a>
 
 # How to make karaoke video
