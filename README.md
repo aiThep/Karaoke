@@ -13,6 +13,6 @@ mr.aithep@gmail.com Updated 2-2-2024
 3. <a href="https://www.softwaresuite.store/adobe/premiere/download/">Adobe Premiere Pro</a>
 
 # How to make karaoke
-1. Vocal Remover Online Free Tutorial
+1. <a href="https://youtu.be/tIsGaz9LHMM">Vocal Remover Online Free Tutorial</a>
 2. Subtitle Edit Tutorial
 3. <a href="https://www.youtube.com/watch?v=dbPxOkT8CUM/">Adobe Premiere Pro Tutorial</a>
