@@ -1,4 +1,4 @@
-# Karaoke Video Project
+# Karaoke Project
 mr.aithep@gmail.com Updated 2-2-2024
 
 # Templates for Adobe Premiere Pro
@@ -15,5 +15,5 @@ mr.aithep@gmail.com Updated 2-2-2024
 3. https://github.com/SubtitleEdit/subtitleedit/releases/ Download Subtitle Edit
 4. https://www.softwaresuite.store/adobe/premiere/download/ Download Adobe Premiere Pro
 
-# How to Make Karaoke Video - Adobe Premiere Pro Tutorial
+# How to Make Karaoke - Adobe Premiere Pro Tutorial
 1. https://www.youtube.com/watch?v=dbPxOkT8CUM/
