@@ -8,11 +8,11 @@ mr.aithep@gmail.com Updated 2-2-2024
 4. Karaoke Lyrics.srt
 
 # Karaoke tools
-1. <a href="https://multimedia.easeus.com/vocal-remover/" target="_blank">Vocal Remover Online Free</a>
+1. <a href="https://multimedia.easeus.com/vocal-remover/">Vocal Remover Online Free</a>
 2. <a href="https://github.com/SubtitleEdit/subtitleedit/releases/">Subtitle Edit: https</a>
 3. <a href="https://www.softwaresuite.store/adobe/premiere/download/">Adobe Premiere Pro</a>
 
 # How to make karaoke video
-1. Vocal Remover Online Free Tutorial:
-2. Subtitle Edit Tutorial:
-3. Adobe Premiere Pro Tutorial: https://www.youtube.com/watch?v=dbPxOkT8CUM/
+1. <a href="">Vocal Remover Online Free Tutorial</a>
+2. <a href="">Subtitle Edit Tutorial</a>
+3. <a href="https://www.youtube.com/watch?v=dbPxOkT8CUM/">Adobe Premiere Pro Tutorial</a>
