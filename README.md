@@ -3,17 +3,16 @@ mr.aithep@gmail.com Updated 2-2-2024
 
 # Templates for Adobe Premiere Pro
 1. Background 1920x1080.jpg
-2. Karaoke sound music.m4a
-3. Karaoke sound vocals.m4a
-4. Karaoke subtitle 0018FF.mogrt
-5. Karaoke subtitle FFFFFF.mogrt
-6. Karaoke subtitles lyrics.srt
+2. Karaoke 0018FF.mogrt
+3. Karaoke FFFFFF.mogrt
+4. Karaoke Lyrics.srt
 
-# Download Tools
-1. https://www.audacityteam.org/download/ Download Audacity
-2. https://github.com/Anjok07/ultimatevocalremovergui/ Download Ultimate Vocal Remover
-3. https://github.com/SubtitleEdit/subtitleedit/releases/ Download Subtitle Edit
-4. https://www.softwaresuite.store/adobe/premiere/download/ Download Adobe Premiere Pro
+# Karaoke tools
+1. Vocal Remover Online Free: https://multimedia.easeus.com/vocal-remover/
+2. Subtitle Edit: https://github.com/SubtitleEdit/subtitleedit/releases/
+3. Adobe Premiere Pro: https://www.softwaresuite.store/adobe/premiere/download/
 
-# How to Make Karaoke - Adobe Premiere Pro Tutorial
-1. https://www.youtube.com/watch?v=dbPxOkT8CUM/
+# How to make karaoke video
+1. Vocal Remover Online Free Tutorial:
+2. Subtitle Edit Tutorial:
+3. Adobe Premiere Pro Tutorial: https://www.youtube.com/watch?v=dbPxOkT8CUM/
