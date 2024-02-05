@@ -8,7 +8,7 @@ mr.aithep@gmail.com Updated 2-2-2024
 4. <a href="https://github.com/aiThep/Karaoke/blob/main/Karaoke%20subtitles%20lyrics.srt">Karaoke Lyrics.srt</a>
 
 # Karaoke tools
-1. <a href="https://www.youtube.com/watch?v=EWUcDIo9VJE/">Music video from youtube ก้าวให้ไกลกว่าเดิม - SEK LOSO【OFFICIAL MV】</a>
+1. <a href="https://www.youtube.com/watch?v=EWUcDIo9VJE/">Music video from YouTube. ก้าวให้ไกลกว่าเดิม - SEK LOSO【OFFICIAL MV】</a>
 2. <a href="https://multimedia.easeus.com/vocal-remover/">Vocal Remover Online Free</a>
 3. <a href="https://github.com/SubtitleEdit/subtitleedit/releases/">Subtitle Edit</a>
 4. <a href="https://www.softwaresuite.store/adobe/premiere/download/">Adobe Premiere Pro</a>
