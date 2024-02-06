@@ -1,5 +1,5 @@
 # Karaoke Project
-mr.aithep@gmail.com Updated 2-2-2024
+mr.aithep@gmail.com Updated 6-2-2024 Th
 
 # Templates for Adobe Premiere Pro
 1. <a href="https://github.com/aiThep/Karaoke/blob/main/Background%201920x1080.jpg">Background 1920x1080.jpg</a>
